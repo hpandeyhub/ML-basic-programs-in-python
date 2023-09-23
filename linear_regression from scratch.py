@@ -22,7 +22,7 @@ for i in range(n):
 m=numerator/denominator
 c=mean_y-(m*mean_x)
 print("m=",m,"c=",c)
-C:\Users\himan\AppData\Roaming\JetBrains\PyCharmCE2023.1\scratches\testing.py
+
 #find y values at any point
 val=int(input("enter value x for find y"))
 a=(m*val)+c
